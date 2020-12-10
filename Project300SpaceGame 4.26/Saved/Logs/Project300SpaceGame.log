@@ -803,3 +803,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.10-18.47.52:312][654]LogFileHelpers: Saving map 'Level2' took 0.019
 [2020.12.10-18.47.52:320][654]AssetCheck: New page: Asset Save: Level2
 [2020.12.10-18.47.52:320][654]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Level2.Level2
+[2020.12.10-18.49.58:681][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.10-18.49.58:714][873]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/DeathScreen.DeathScreen
+[2020.12.10-18.49.58:714][873]Cmd: MAP LOAD FILE="../../../../../Documents/GitHub/PRJT3900/PRJT3900/Project300SpaceGame 4.26/Content/FirstPersonBP/Maps/DeathScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.10-18.49.58:714][873]LightingResults: New page: Lighting Build
+[2020.12.10-18.49.58:714][873]LoadErrors: New page: Loading map: DeathScreen.umap
+[2020.12.10-18.49.58:743][873]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.10-18.49.58:743][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.10-18.49.58:743][873]MapCheck: New page: Map Check
+[2020.12.10-18.49.58:743][873]LightingResults: New page: Lighting Build
+[2020.12.10-18.49.58:747][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.10-18.49.58:748][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.10-18.49.58:753][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.10-18.49.58:756][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.12.10-18.49.58:756][873]LogAudio: Display: Audio Device (ID: 1) registered with world 'DeathScreen'.
+[2020.12.10-18.49.58:757][873]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.10-18.49.58:757][873]LogAIModule: Creating AISystem for world DeathScreen
+[2020.12.10-18.49.58:762][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.12.10-18.49.58:769][873]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.10-18.49.58:769][873]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
+[2020.12.10-18.49.58:769][873]LogFileHelpers: Loading map 'DeathScreen' took 0.056
+[2020.12.10-18.50.00:847][ 85]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/DeathScreen.DeathScreen:PersistentLevel.DeathScreen
+[2020.12.10-18.50.01:008][ 85]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2020.12.10-18.50.01:657][ 85]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.10-18.50.01:679][ 86]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.10-18.50.06:964][690]BlueprintLog: New page: Compile DeathScreen
+[2020.12.10-18.50.06:994][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.12.10-18.50.07:022][690]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.10-18.50.07:517][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.10-18.50.07:521][744]LogSavePackage: Moving '../../../../../Documents/GitHub/PRJT3900/PRJT3900/Project300SpaceGame 4.26/Saved/DeathScreen9F73F8194E195B72B60533B4B37C9B13.tmp' to '../../../../../Documents/GitHub/PRJT3900/PRJT3900/Project300SpaceGame 4.26/Content/FirstPersonBP/Maps/DeathScreen.umap'
+[2020.12.10-18.50.07:528][744]LogFileHelpers: Saving map 'DeathScreen' took 0.026
+[2020.12.10-18.50.07:537][744]AssetCheck: New page: Asset Save: DeathScreen
+[2020.12.10-18.50.07:537][744]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/DeathScreen.DeathScreen
